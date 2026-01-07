@@ -1,0 +1,11 @@
+{
+  "name": "ADMbazzar Pro",
+  "short_name": "ADMbazzar",
+  "description": "Plataforma completa para gestão estratégica de bazares beneficentes, controle de estoque e curadoria.",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
